@@ -1,3 +1,4 @@
+Hi there, Stevie is here. 
 ---
 title: "Get hands-on with The Cloud Resume Challenge - and beyond"
 ---
